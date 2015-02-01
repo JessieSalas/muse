@@ -14,6 +14,7 @@ id_AppMenu_PANEL = 1
 import kivy
 import random
 import time
+import cPickle as pickle
 #kivy.require('1.8.0')
 
 from kivy.metrics import dp
@@ -37,11 +38,21 @@ from kivy.properties import  ObjectProperty
 #from kivy.network.urlrequest import UrlRequest
 
 #import urllib
-# patent dictionary
+"""
+with open('distances.pickle','wb') as d:
+    distances = pickle.load(d)
 
-#endpoint = 'http://calwatson.herokuapp.com/question'
-#my_token = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6Im9za2lfYmVhciIsInBhc3N3b3JkIjoicGFzc3dvcmQ3In0.I8Z0BPvf_9sb9kp19Tek1ZxC50Im1YebB-TE3Oc6Rps'
 
+with open('spotifys.pickle','wb') as s:
+    spotifys = pickle.load(s)
+
+
+with open('titles.pickle','wb') as t:
+    titles = pickle.load(t)
+
+with open('distances.pickle','wb') as dd:
+    tit_dic = pickle.load(dd)
+"""
 RootApp = None
 
 class SidePanel(BoxLayout):
@@ -178,6 +189,26 @@ class AndroidApp(App):
     own_num2 = StringProperty()
     own_num3 = StringProperty()
     own_num4 = StringProperty()
+
+    def analyquery(title,artist,idea):
+        global titles
+        global spotifys
+        global distances
+        global tit_dic  
+        num = tit_dic[title]
+        index = 0
+        mindex = 0
+        least = 100
+        for val in distances:
+            if val < least:
+                least = val
+                mindex = index
+            index +=1
+
+        return (titles[mindex], spotifys[mindex])
+            
+
+        sorted(distances)
 
     def mail(self, ID):
         fromaddr = 'patentfoxibm@gmail.com'

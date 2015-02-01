@@ -79,6 +79,3 @@ with open('titles.pickle', 'wb') as t:
         
 with open('tit_dic.pickle', 'wb') as dd:
     pickle.dump(tit_dict,dd,protocol=pickle.HIGHEST_PROTOCOL)
-            
-        
-
