@@ -1,0 +1,800 @@
+	1	Stinkfist	Tool	23	53	Aenima	1996
+	2	Little Pills	Devilskin	104	73	We Rise	2012
+	3	November Rain	Guns 'N' Roses	16	11	Use Your Illusion I	1991
+	4	Free Bird	Lynyrd Skynyrd	11	2	Lynyrd Skynyrd	1973
+	5	One	Metallica	4	1	…And Justice for All	1988
+	6	Black	Pearl Jam	3	6	Ten	1991
+	7	Killing In The Name	Rage Against The Machine	7	7	Rage Against the Machine	1992
+	8	Sober	Tool	1	15	Undertow	1993
+	9	Back 'n Black	AC/DC	31	19	Back'n'Black	1980
+	10	Nil By Mouth	Blindspott	14	32	Blindspott	2001
+	11	The General Electric	Shihad	30	9	The General Electric	1999
+	12	Everlong	Foo Fighters	6	20	The Colour and the Shape	1997
+	13	Bohemian Rhapsody	Queen	36	8	A Night at the Opera	1975
+	14	Smells Like Teen Spirit	Nirvana	19	4	Nevermind	1991
+	15	Master of Puppets	Metallica	2	10	Master Of Puppets	1986
+	16	Fade to Black	Metallica	21	30	Ride the Lightning	1984
+	17	Thunderstruck	AC/DC	50	27	The Razor's Edge	1990
+	18	Stairway to Heaven	Led Zeppelin	9	18	Led Zeppelin IV	1971
+	19	Take Out The Gunman	Chevelle	Debut		La Gárgola	2014
+	20	All My Life	Foo Fighters	39	24	One By One	2002
+	21	War Pigs	Black Sabbath	5	43	Paranoid	1970
+	22	Betterman	Pearl Jam	27	54	Vitolagy	1994
+	23	Gimmie Shelter	Rolling Stones	43	130	Let it Bleed	1969
+	24	Anema	Tool	26	108	Aenima	1996
+	25	Sweet Child 'O Mine	Guns 'N' Roses	41	14	Appetite for Desctruction	1987
+	26	Down With The Sickness	Disturbed	36	21	The Sickness	2000
+	27	Brothers in Arms	Dire Straits	71	16	Brothers in Arms	1985
+	28	Paradise City	Guns 'N' Roses	22	31	Appetite for Desctruction	1987
+	29	Start a Revolution	Devilskin	Debut		We Rise	2014
+	30	Highway To Hell	AC/DC	24	83	Highway to Hell	1979
+	31	Home Again	Shihad	8	17	Shihad (Fish Album)	1996
+	32	Cochise	Audioslave	47	49	Audioslave	2002
+	33	Nothing Else Matters	Metallica	67	35	Metallica (Black Album)	1991
+	34	The Beautiful People	Marilyn Manson	52	85	Antichrist Superstar	1996
+	35	Hotel California	The Eagles	69	12	Hotel California	1976
+	36	Enter Sandman	Metallica	10	3	Metallica (Black Album)	1991
+	37	Bomb Track	Rage Against The Machine	65	119	Rage Against the Machine	1992
+	38	Whole Lotta Love	Led Zeppelin	88	134	Led Zeppelin II	1970
+	39	Alive	Pearl Jam	102	42	Ten	1991
+	40	In Bloom	Nirvana	113	75	Nevermind	1991
+	41	Forty Six and Two	Tool	125	55	Aenima	1996
+	42	For Whom The Bell Tolls	Metallica	68	41	Ride the Lightning	1984
+	43	Under The Bridge	Red Hot Chili Peppers	100	40	Blood Sugar Sex Magik	1991
+	44	Burden in My Hand	Soundgarden	230	264	Down on the Upside	1996
+	45	Know Your Enemy	Rage Against The Machine	148	44	Rage Against the Machine	1992
+	46	Daughter	Pearl Jam	13	25	vs	1993
+	47	Cowboys From Hell	Pantera	82	91	Cowboys From Hell	1990
+	48	Interstate Love Song	Stone Temple Pilots	115	151	Purple	1994
+	49	Man In The Box	Alice In Chains	28	70	Facelift	1990
+	50	Comfortably Numb	Pink Floyd	29	26	The Wall	1979
+	51	Bullet With Butterfly Wings	Smashing Pumpkins	73	47	Mellon Collie and the Infinite Sadness	1995
+	52	Sad But True	Metallica	99	60	Metallica (Black Album)	1991
+	53	Rooster	Alice In Chains	234	111	Dirt	1992
+	54	Ramble On	Led Zeppelin	533	313	Led Zeppelin II	1969
+	55	Hells Bells	AC/DC	12	22	Back'n'Black	1980
+	56	Wild Horses	Rolling Stones	387	295	Sticky Fingers	1971
+	57	King Nothing	Metallica	503	161	Load	1996
+	58	Never See The Light	Devilskin	495	New	Single	2013
+	59	Slice of Heaven	Dave Dobbyn	558	336	Loyal	1988
+	60	Judith	A Perfect Circle	573	700	Mer de Noms	2000
+	61	We Will Rock You	Queen	150	237	News of the World	1977
+	62	The Pot	Tool	181	236	10,000 Days	2006
+	63	Are You Ready	AC/DC	327	136	The Razor's Edge	1990
+	64	Arabella	Arctic Monkeys	Debut		AM	2013
+	65	Shine On You Crazy Diamond	Pink Floyd	40	96	Wish You Were Here	1975
+	66	Pacifier	Shihad	45	65	The General Electric	1999
+	67	Paint It Black	Rolling Stones	581	209	Aftermath	1966
+	68	Kashmir	Led Zeppelin	49	89	Physical Graffitti	1975
+	69	Do I Wanna Know	Arctic Monkeys	Debut		AM	2013
+	70	Ace Of Spades	Motorhead	15	5	Ace of Spades	1980
+	71	Plush	Stone Temple Pilots	61	78	Core	1992
+	72	Here I Go Again	Whitesnake	478	635	Saints and Sinners	1982
+	73	What I Got	Sublime	307	216	Sublime	1996
+	74	The Unforgiven	Metallica	124	92	Metallica (Black Album)	1991
+	75	Come Together	The Beatles	83	287	Abbey Road	1969
+	76	1979	Smashing Pumpkins	145	220	Mellon Collie and the Infinite Sadness	1995
+	77	My Hero	Foo Fighters	177	97	The Colour and the Shape	1997
+	78	Cherub Rock	Smashing Pumpkins	479	844	Siamese Dream	1993
+	79	Think You're So Free	Shihad	Debut		FVEY	2014
+	80	Wish You Were Here	Pink Floyd	86	29	Wish You Were Here	1975
+	81	Welcome to the Jungle	Guns 'N' Roses	90	52	Appetite for Desctruction	1987
+	82	Zero	Smashing Pumpkins	564	385	Mellon Collie and the Infinite Sadness	1995
+	83	Home	Blacklistt	974	New	Single	2013
+	84	Prayer	Disturbed	109	138	Believe	2002
+	85	Around the World	Red Hot Chili Peppers	656	454	Californication	1999
+	86	No One Knows	Queens Of The Stone Age	121	69	Songs for the Deaf	2002
+	87	Dr. Feelgood	Motley Crue	311	413	Dr. Feelgood	1989
+	88	One Tree Hill	U2	410	86	The Joshua Tree	1987
+	89	Let It Die	Foo Fighters	412	204	Echoes, Silence, Patience and Grace	2007
+	90	Learn To Fly	Foo Fighters	42	33	There Is Nothing Left To Lose	1999
+	91	I Bet That You'd Look Good On The Dancefloor	Arctic Monkeys	Re-Entry		Whatever People Say I Am, That's What I'm Not	2006
+	92	The Memory Remains	Metallica	480	229	Re-Load	1997
+	93	Suck My Kiss	Red Hot Chili Peppers	151	173	Blood Sugar Sex Magik	1991
+	94	Khe Sahn	Cold Chisel	128	58	Cold Chisel	1978
+	95	Monkey Wrench	Foo Fighters	123	205	The Colour and the Shape	1997
+	96	Schism	Tool	85	391	Lateralus	2001
+	97	For Those About To Rock	AC/DC	44	28	For Those About To Rock	1981
+	98	Copperhead Road	Steve Earle	353	442	Copperhead Road	1988
+	99	Little Monster	Royal Blood	Debut		Royal Blood	2014
+	100	Even Flow	Pearl Jam	53	180	Ten	1991
+	201	Ashes To Ashes	Faith No More	507	260	Album of the Year	1997
+	202	Pour Some Sugar on Me	Def Leppard	264	152	Hysteria	1987
+	203	Blitzkreig Bop	Ramones, The	459	615	Ramones	1976
+	204	Outside	Staind	643	419	Break the Cycle	2001
+	205	Blow Up The Outside World	Soundgarden	188	290	Superunknown	1994
+	206	B.Y.O.B	System of a Down	93	34	Mezmerize	2005
+	207	Smoke on the Water	Deep Purple	108	172	Machine Head	1972
+	208	Cumbersome	7 Mary 3	220	167	Amercian Standard	1996
+	209	Best of You	Foo Fighters	298	133	In Your Honor	2005
+	210	Evidence	Faith No More	411	273	King for a Day... Fool for a Lifetime	1995
+	211	Plug In Baby	Muse	131	376	Origin of Symmetry	2001
+	212	Beds Are Burning	Midnight Oil	456	278	Diesel and Dust	1987
+	213	You Again	Shihad	158	159	Killjoy	1995
+	214	All Along The Watchtower	Jimi Hendrix	434	621	Electric Ladyland	1968
+	215	Somewhere I Belong	Linkin Park	423	529	Meteora	2003
+	216	You Give Love A Bad Name	Bon Jovi	440	724	Slippery When Wet	1986
+	217	Satellite	Rise Against	408	299	Endgame	2010
+	218	Sweat it Out	Jimmy Barnes	488	737	Heat	1993
+	219	Black Betty	Spiderbait	107	154	Tonight Alright	2004
+	220	Razor Wire Reality	I Am Giant	Debut		science and survival	2014
+	221	Another Brick In The Wall	Pink Floyd	64	93	The Wall	1979
+	222	Alligator Skin	Villainy	354	147	Single only	2011
+	223	Cheap Wine	Cold Chisel	450	377	Cold Chisel	1978
+	224	Take A Picture	Filter	652	885	Title of Record	1999
+	225	Immortality	Pearl Jam	134	233	Vitalogy	1994
+	226	I Still Haven't Found What I'm Looking For	U2	474	251	The Joshua Tree	1987
+	227	Self Esteem	Offspring, The	168	373	Smash	1994
+	228	Welcome To Paradise	Green Day	291	365	Dookie	1994
+	229	Yellow Ledbetter	Pearl Jam	130	90	Jeremy B Side	1992
+	230	Shine	Collective Soul	186	274	Hints, Allegations and Things Left Unsaid	1993
+	231	Smooth Sailing	Queens Of The Stoneage	Debut		like clockwork	2013
+	232	Rock'n'Roll	Led Zeppelin	492	362	Led Zeppelin IV	1971
+	233	I Got ID	Pearl Jam	273	472	Single Only	1995
+	234	Fake Plastic Trees	Radiohead	660	490	The Bends	1995
+	235	Animal	Pearl Jam	141	492	vs	1993
+	236	Dani California	Red Hot Chili Peppers	320	497	Stadium Arcadium	2006
+	237	Rape Me	Nirvana	195	301	In Utero	1993
+	238	Set It Off	Audioslave	Debut		Audioslave	2002
+	239	I Want It All	Queen	272	380	The Miricle	1989
+	240	Good Riddance (Time of Your Life)	Green Day	369	535	Nimrod	1997
+	241	By The Way	Red Hot Chili Peppers	509	320	Californication	1999
+	242	Blaze of Glory	Bon Jovi	183	257	Blaze of Glory	1990
+	243	Until It Sleeps	Metallica	304	447	Load	1996
+	244	Somebody Told Me	Killers, The	324	556	Hot Fuss	2004
+	245	Black Hole Sun	Soundgarden	56	123	Superunknown	1994
+	246	Drive	Incubus	287	213	Make Yourself	2000
+	247	Eye of the Tiger	Survivor	523	Debut	Eye of the Tiger	1982
+	248	Inside the Fire	Disturbed	465	294	Indestructable	2008
+	249	Haemmorhage	Fuel	371	284	Something Like Human	2000
+	250	Bad To The Bone	George Thorogood	292	555	Bad to the Bone	1982
+	251	Pardon Me	Incubus	Re-Entry		Make yourself	2000
+	252	Heatseeker	AC/DC	343	382	Blow Up Your Video	1988
+	253	Hey Man Nice Shot	Filter	689	803	Short Bus	1995
+	254	Crawling	Linkin Park	401	215	Hydrid Theory	1999
+	255	Imagine	John Lennon	167	319	Imagine	1971
+	256	Wait and See	Shihad	711	634	The General Electric	1999
+	257	Diary of Jane	Breaking Benjamin	328	106	Probia	2006
+	258	Voodoo Chile	Jimi Hendrix	471	384	Electric Ladyland	1968
+	259	Sex on Fire	Kings Of Leon	32	118	Only By The Night	2009
+	260	One Bourbon, One Scotch, One Beer	George Thorogood	333	711	Gerorge Thorogood and the Destroyers	1977
+	261	Fell On Black Days	Soundgarden	340	256	Superunknown	1994
+	262	Loser	Beck	286	524	Mellow Gold	1994
+	263	Sitting Inside My Head	Supergroove	486	698	Traction	1994
+	264	Face To The Floor	Chevelle	493	79	Hats Off To The Bull	2012
+	265	Everything	Shihad	318	371	Pacifier	2002
+	266	Run To Paradise	Choir Boys	614	417	Big Bad Noise	1987
+	267	Nothingman	Pearl Jam	233	307	Vitalogy	1994
+	268	Black Dog	Led Zeppelin	94	230	Led Zeppelin IV	1971
+	269	Last Cup of Sorrow	Faith No More	213	193	Album of the Year	1997
+	270	It's Only Rock n Roll	Rolling Stones	740	797	It's Only Rock n Roll	1974
+	271	Chemical Heart	Grinspoon	600	690	New Detention	2002
+	272	Big Empty	Stone Temple Pilots	358	549	Purple	1994
+	273	Livin On The Edge	Aerosmith	305	401	Get a Grip	1993
+	274	Battery	Metallica	469	741	Master of Puppets	1986
+	275	Wrong Way	Sublime	165	201	Sublime	1996
+	276	Prison Sex	Tool	821	344	Undertow	1993
+	277	Parabola	Tool	785	552	Lateralus	2001
+	278	All Apologies	Nirvana	205	258	In Utero	1993
+	279	Angel's Son	Sevendust	565	708	Animosity	2001
+	280	It's A Long Way To The Top	AC/DC	538	139	T.N.T.	1975
+	281	Wherever I May Roam	Metallica	460	226	Metallica (Black Album)	1991
+	282	Another One Bites The Dust	Queen	562	203	The Game	1980
+	283	Rope	Foo Fighters	580	378	Back and Forth	2011
+	284	Paranoid	Black Sabbath	101	64	Paranoid	1970
+	285	Billie Jean	Chris Cornell	750	Re-Entry	Carry On	2007
+	286	Stacked Actors	Foo Fighters	695	647	There Is Nothing Left To Lose	1999
+	287	The Evil that Men Do	Iron Maiden	282	570	Seventh Son of a Seventh Son	1988
+	288	Ghost	Slash	491	122	Slash	2010
+	289	Prime Mover	Zodiac Mindwarp	184	386	Tattooed Beat Mesiah	1988
+	290	Scorpio Girls	Supergroove	254	224	Traction	1994
+	291	Champagne Supernova	Oasis	118	553	(What's the Story) Morning Glory?	1995
+	292	No More Tears	Ozzy Osbourne	76	248	No More Tears	1991
+	293	The Distance	Cake	472	696	Fashion Nugget	1996
+	294	Under Pressure	Queen and David Bowie	347	207	Hot Space	1982
+	295	Just	Radiohead	284	710	The Bends	1995
+	296	Santa Monica	Everclear	171	283	Sparkle and Fade	1995
+	297	Mary Janes Last Dance	Tom Petty	317	249	Greatest Hits	1993
+	298	Gold On The Ceiling	The Black Keys	534	435	El Camino	2011
+	299	Down Under	Men At Work	280	547	Business as Usual	1981
+	300	If I Had A Tail	Queens Of The Stoneage	Debut		Like Clockwork	2013
+	301	Fight for your Right to Party	Beastie Boys, The	642	109	Licensed to Ill	1986
+	302	Dead and Bloated	Stone Temple Pilots	476	341	Core	1992
+	303	New Sensation	INXS	326	522	Kick	1987
+	304	One	U2	221	298	Achtung Baby	1991
+	305	Undone (The Sweater Song)	Weezer	Re-Entry		Weezer	1994
+	306	Immigrant Song	Led Zeppelin	632	438	Led Zeppelin III	1970
+	307	Would?	Alice In Chains	81	140	Dirt	1992
+	308	T.N.T	AC/DC	676	459	T.N.T.	1975
+	309	Lake of Fire	Nirvana	246	318	MTV Unplugged	1994
+	310	Purple Haze	Jimi Hendrix	399	583	Are You Experienced?	1967
+	311	Mind Your Manners	Pearl Jam	Debut		lightning bolt	2013
+	312	Rebel Yell	Billy Idol	448	673	Rebel Yell	1983
+	313	Bodies	Drowning Pool	510	62	Sinner	2001
+	314	Don't Cry	Guns 'N' Roses	504	323	Use Your Illusion I	1991
+	315	2 Minutes to Midnight	Iron Maiden	738	431	Powerslave	1984
+	316	Cover Me	Candlebox	352	219	Candlebox	1993
+	317	Addicted to Love	Robert Palmer	673	625	Riptide	1986
+	318	Falling To Pieces	Faith No More	707	Re-Entry	The Real Thing	1989
+	319	Knights of Cydonia	Muse	907	250	Blackholes…	2006
+	320	I Disappear	Metallica	201	270	Single Only	2000
+	321	Gimme All Your Lovin	ZZ Top	142	181	Eliminator	1983
+	322	Basket Case	Green Day	255	399	Dookie	1994
+	323	Go with the Flow	Queens Of The Stoneage	539	395	Songs for the Deaf	2002
+	324	Last Resort	Papa Roach	162	191	Infest	2000
+	325	She Talks To Angels	Black Crowes, The	464	353	Shake Your Money Maker	1990
+	326	From the Blindspott	Blacklistt	505	238	Single Only	2011
+	327	Fall To Pieces	Velvet Revolver	133	210	Contraband	2004
+	328	Patience	Guns 'N' Roses	531	481	G N' R Lies	1988
+	329	Comfort Me	Shihad	654	554	Pacifier	2002
+	330	Cocaine	Eric Clapton	550	881	Slowhand	1977
+	331	Dirty Deeds Done Dirt Cheap	AC/DC	574	166	Dirty Deeds Done Dirt Cheap	1976
+	332	Blurry	Puddle of Mudd	489	684	Come Clean	2001
+	333	State of Love and Trust	Pearl Jam	268	445	Single Only	2004
+	334	All The Small Things	Blink 182	436	355	Enema of the State	1999
+	335	Three Libra's	A Perfect Circle	Re-Entry	991	Mer de Noms	2000
+	336	Walk	Pantera	315	544	Vulgar Display of Power	1992
+	337	I Am The Highway	Audioslave	665	672	Audioslave	2002
+	338	Can't Get Enough	Supergroove	554	444	Traction	1994
+	339	Aerials	System of a Down	336	38	Toxicity	2001
+	340	Worldwide Suicide	Pearl Jam	621	328	Pearl Jam	2006
+	341	Vessel	Devilskin	Debut		We Rise	2014
+	342	Don't Look Back in Anger	Oasis	441	199	(What's the Story) Morning Glory?	1995
+	343	Today	Smashing Pumpkins	343	348	Siamese Dream	1993
+	344	Time	Pink Floyd	651	507	The Dark Side of the Moon	1973
+	345	Vicarious	Tool	299	279	10,000 Days	2006
+	346	Somebody To Love	Queen	622	450	A Day at the Races	1976
+	347	Gasoline	Audioslave	Debut		audioslave	2002
+	348	Radio Nowhere	Bruce Springsteen	147	272	Magic	2007
+	349	Crazy Train	Ozzy Osbourne	515	157	Blizzard of Oz	1980
+	350	Megalomaniac	Incubus	593	736	A Crow Left of the Murder	2003
+	351	Wasted Years	Iron Maiden	146	168	Somewhere in Time	1986
+	352	Use Somebody	Kings Of Leon	203	131	Only By The Night	2009
+	353	My Michelle	Guns'n'Roses	571	748	Appetite for Destruction	1987
+	354	Re-Educate	Rise Against	334	432	Appeal To Reason	2008
+	355	Sun Hits The Sky	Supergrass	Re-Entry		In It for the Money.	1994
+	356	Given To Fly	Pearl Jam	289	370	Yield	1998
+	357	The Outlaw Torn	Metallica	608	337	Load	1996
+	358	Lonely Boy	Black Keys, The	18	39	El Camino	2011
+	359	Rock n Roll Ain't Noise Pollution	AC/DC	506	349	Back'n'Black	1980
+	360	Out Of The Black	Royal Blood	Debut		Royal Blood	2014
+	361	Lightning Crashes	Live	156	82	Throwing Copper	1994
+	362	So Cold	Breaking Benjamin	705	223	We Are Not Alone	2004
+	363	More Than A Feeling	Boston	890	764	Boston	1976
+	364	Sanitarium	Metallica	72	102	Master Of Puppets	
+	365	I Got You	Split Enz	360	573	True Colours	1980
+	366	Down in a Hole	Alice In Chains	869	582	Dirt	1992
+	367	The Trooper	Iron Maiden	46	132	Piece of Mind	1983
+	368	One Step Closer	Linkin Park	111	437	Hybrid Theory	1999
+	369	Revolution	Beatles, The	653	944	Single Only	1968
+	370	Come Out and Play	Offspring, The	309	51	Smash	1994
+	371	Symphony of Destruction	Megadeth	87	117	Countdown to Extinction	1992
+	372	Never Tear Us Apart	INXS	922	863	Kick	1987
+	373	D.O.A.	Foo Fighters	631	367	In Your Honor	2005
+	374	Sledgehammer	Peter Gabriel	499	733	So	1985
+	375	City Limits	I Am Giant	300	94	Single Only	2010
+	376	Soul To Squeeze	Red Hot Chili Peppers	542	477	Blood Sugar Sex Magik	1991
+	377	Into the Great Wide Open	Tom Petty	716	812	Into the Great Wide Open	1991
+	378	What's The Story Morning Glory	Oasis	483	919	(What's the Story) Morning Glory?	1995
+	379	The Hand That Feeds	Nine Inch Nails	787	Re-Entry	With Teeth	2005
+	380	Civil War	Guns 'N' Roses	126	368	Use Your Illusions II	1991
+	381	Woke Up This Morninig	Alabama 3	692	Debut	Exile on Coldharbour Lane	1997
+	382	The Jack	AC/DC	355	511	T.N.T	1975
+	383	Nobody to Love	Josh Homme	588	New	End of Watch	2012
+	384	We Are The Champions	Queen	612	467	News of the Wolrd	1977
+	385	Lakinis Juice	Live	323	178	Secret Samadhi	1997
+	386	Walk This Way	Aerosmith	204	398	Toys in the Attic	1975
+	387	Land Of Confusion	Disturbed	332	177	Ten Thousand Fists	2005
+	388	Young Lust	Pink Floyd	357	176	The Wall	1979
+	389	Hurt	Johnny Cash	92	128	American IV: The Man Comes Around	2002
+	390	Dig	Incubus	344	504	Light Grenades	2006
+	391	Jump	Van Halen	349	169	1984	1984
+	392	Hot For Teacher	Van Halen	313	184	1984	1984
+	393	Another Way To Die	Disturbed	199	71	Asylum	2010
+	394	Californication	Red Hot Chili Peppers	314	84	Californication	1999
+	395	I Need You Tonight	INXS	661	879	Kick	1987
+	396	Come With Me Now	Kongos	Debut		Lunatic	2011
+	397	Rusty Cage	Soundgarden	234	76	Badmotorfinger	1991
+	398	All Over You	Live	140	163	Throwing Copper	1994
+	399	Living Dead Girl	Rob Zombie	435	499	Hellbilly Deluxe	1998
+	400	Summer of 69	Bryan Adams	281	525	Reckless	1984
+	501	Pretty Noose	Soundgarden	261	306	Down on the Upside	1996
+	502	Neon Sunrise	I am Giant	784	660	Single Only	2010
+	503	Disarm	Smashing Pumpkins	402	610	Siamese Dream	1993
+	504	Slither	Velvet Revolver	719	567	Contraband	2001
+	505	Please Bleed	Ben Harper	325	148	Burn to Shine	1999
+	506	What's My Age Again	Blink 182	545	458	Enema of the State	1999
+	507	Holy Wars	Megadeth	174	196	Rust in Piece	1990
+	508	Keep The Faith	Bon Jovi	420	532	Keep The Faith	1992
+	509	Thunderkiss 65	White Zombie	757	Re-Entry	La Sexorcisto: The Devils Music Volume 1	1991
+	510	Message In A Bottle	Police, The	540	735	Reggatta De Blanc	1979
+	511	Sake Bomb	The D4	Re-Entry		out of my head	2005
+	512	Bright Lights	Gary Clark Jnr	270	476	The Bright Lights E.P	2011
+	513	I Fought The Law	Clash, The	443	965	The Cost of Living (EP)	1979
+	514	Lonely Day	System of a Down	129	208	Hypnotize	2005
+	515	Learning To Fly	Tom Petty	461	609	Into the Great Wide Open	1991
+	516	Tempest	Deftones	519	New	Koi No Yokan	2012
+	517	No Rain	Blind Melon	462	239	Blind Melon	1992
+	518	New Moon Rising	Wolfmother	293	466	Cosmic Egg	2009
+	519	End Over End	Foo Fighters	463	519	In Your Honour	2005
+	520	Been Caught Stealing	Janes Addiction	422	607	Ritual de lo Habitual	1990
+	521	Bittersweet Symphony	Verve, The	119	190	Urban Hymns	1997
+	522	Mobscene	Marilyn Manson	Re-Entry		The Golden Age of Grotesque	2003
+	523	Dominion Road	Muttonbirds, The	526	921	The Mutton Birds	1992
+	524	Ciggerettes and Alcohol	Oasis	Re-Entry		Definitely Maybe	1994
+	525	Bulls on Parade	Rage Against The Machine	765	623	Evil Empire	1996
+	526	Elevation	U2	285	426	All That You Can't Leave Behind	2000
+	527	21 Guns	Green Day	455	228	American Idiot	2004
+	528	Every Rose Has It's Thorn	Poison	609	253	Open up and say Ahh	1988
+	529	War Machine	AC/DC	610	364	Black Ice	2008
+	530	11:57	Elemeno P	458	572	Trouble in Paradise	2005
+	531	Why Can't This Be Love	Van Halen	367	520	5150	1986
+	532	Where Do We Go From Here	Filter	Debut		The Amalgamut	2002
+	533	Light My Fire	Doors, The	178	269	The Doors	1967
+	534	Toxicity	System of A Down	405	439	Toxicity	2001
+	535	Desire	U2	446	675	Rattle and Hum	1988
+	536	Right Outta Nowhere	Shihad	501	New	Sing;le Only	2012
+	537	I Was Made For Loving You	Kiss	508	325	Dynasty	1979
+	538	Walk	Foo Fighters	470	104	Back and Forth	2011
+	539	Hard to Handle	Black Crowes, The	904	596	Shake Your Money Maker	1990
+	540	I Sat By The Ocean	Queens Of The Stone Age	Debut		Like Clockwork	2013
+	541	Steal My Kisses	Ben Harper	658	423	Burn to Shine	1999
+	542	Bat Outta Hell	Meatloaf	55	545	Bat out of Hell	1977
+	543	Numb	Linkin Park	414	604	Meteora	2003
+	544	My Wave	Soundgarden	136	182	Superunknown	1994
+	545	Sex and Candy	Marcy Playground	477	470	Marcys Playground	1997
+	546	Moneytalks	AC/DC	638	558	The Razor's Edge	1990
+	547	Raise The Alarm	Living End	485	347	White Noise	2008
+	548	Sweet Soul Sister	Cult, The	277	429	Sonic Temple	1989
+	549	Stupid Girl	Garbage	Re-Entry		Garbage	1995
+	550	Everything Zen	Bush	525	801	Sixteen Stone	1995
+	551	Where The River Flows	Collective Soul	734	775	Collective Soul	1995
+	552	With Or Without You	U2	570	486	The Joshua Tree	1987
+	553	Supersystem	Feelers, The	207	267	Supersystem	1998
+	554	High Voltage	AC/DC	218	628	High Voltage	1975
+	555	Celebrity Skin	Hole	430	860	Celebrity Skin	1998
+	556	Mr Jones	Counting Crows, The	502	709	August and Everything After	1993
+	557	Radioactive	Imagine Dragons	859	New	Night Visions	2012
+	558	What's Eatin' You?	Airbourne	487	324	Runnin' Wild	2007
+	559	Blister In The Sun	Violent Femmes	189	448	Violent Femmes	1983
+	560	Alandria	Foo Fighters	406	13	Back and Forth	2011
+	561	A Kind of Magic	Queen	607	949	A Kind of Magic	1986
+	562	The Fixer	Pearl Jam	127	143	Backspacer	2009
+	563	White Wedding	Billy Idol	698	575	Billy Idol	1982
+	564	Knocking on Heavens Door	Guns 'N' Roses	704	394	Use Your Illusions II	1991
+	565	Die Die Die My Darling	Metallica	633	411	Garage Inc	1998
+	566	Adolescents	Incubus	514	538	If Not Now, When	2011
+	567	King of The Mountain	Midnight Oil	429	509	Blue Sky Mine	1990
+	568	Starlight	Muse	312	487	Black Holes And Revelations	2006
+	569	Wild Flower	Cult, The	425	587	Electric	1987
+	570	Bad Day	Fuel	Re-Entry		Something like human	2000
+	571	Bohemian Like You	Dandy Warhols, The	791	934	Thirteen tales from Urban Bohemia	2000
+	572	Who Loves Who The Most	Exponents	806	766	Something Beginning with C	1992
+	573	Shimmer	Fuel	786	Re-Entry	Sunburn	1998
+	574	18 and Life	Skid Row	249	195	Skid Row	1989
+	575	These Days	Foo Fighters	511	56	Wasting Light	2011
+	576	Shoot To Thrill	AC/DC	813	513	Back'N'Black	1980
+	577	Driving Wheels	Jimmy Barnes	297	330	Freight Train Heart	1987
+	578	Got The Life	Korn	799	686	Follow the Leader	1998
+	579	Nice To Know You	Incubus	647	767	Morning View	2001
+	580	Close My Eyes Forever	Lita Ford and Ozzy Osbourne	383	155	Lita	1988
+	581	Alive	POD	153	221	Satellite	2001
+	582	What You Need	INXS	847	831	Listen Like Thieves	1985
+	583	Bulletproof	Shihad	808	427	Pacifier	2002
+	584	Get Back	Beatles, The	276	409	Let it Be	1970
+	585	Roll On	Living End	Re-Entry		Roll on	2000
+	586	Kick	INXS	951	802	Kick	1987
+	587	No Way Back	Foo Fighters	Re-Entry		in your honor	2005
+	588	Beautiful Day	U2	356	543	All That You Can't Leave Behind	2000
+	589	Personal Jesus	Marilyn Manson	613	826	Lest We Forget	2004
+	590	Holy Diver	Dio	172	192	Holy Diver	1983
+	591	Nighttrain	Guns 'N' Roses	80	124	Appetite for Desctruction	1987
+	592	Hero Of War	Rise Against	433	211	Appeal to Reason	2008
+	593	I Can't Dance	Genesis	620	896	We Can't Dance	1991
+	594	Running Wild	Airbourne	541	598	Runnin' Wild	2007
+	595	Runnng Free	Iron Maiden	194	669	Iron Maiden	1980
+	596	Otherside	Red Hot Chili Peppers	730	584	Californication	1999
+	597	Running With The Devil	Van Halen	733	654	Van Halen	1978
+	598	Lead Or Follow	Shihad	516	326	Ignite	2010
+	599	Youth Gone Wild	Skid Row	191	390	Skid Row	1989
+	600	Word Up	Korn	549	521	Single Only	2004
+	601	When You Were Young	Killers, The	555	576	Sam's Town	2006
+	602	Panama	Van Halen	576	814	1984	1984
+	603	Debs Night Out	Shihad	190	641	Killjoy	1995
+	604	I Love Rock n Roll	Joan Jett	590	537	I Love Rock n Roll	1981
+	605	No Ordinary Thing	Opshop	596	434	You Are Here	2004
+	606	Pressure Man	Feelers, The	237	202	Supersystem	1998
+	607	Stupify	Disturbed	683	Re-Entry	Down With The Sickness	2000
+	608	Bad Company	Five Finger Death Punch	404	240	War is the Answer	2010
+	609	My My Hey hey	Neil Young	97	125	Rust Never Sleeps	1979
+	610	Brain Stew	Green Day	Re-Entry		Insomniac	1996
+	611	Tell Me Baby	Red Hot Chili Peppers	615	268	Stadium Arcadium	2006
+	612	The River	Bruce Springsteen	342	232	The River	1980
+	613	I Wish You Were Here	Incubus	668	676	Morning View	2001
+	614	Ana's Song (Open Fire)	Silverchair	732	695	Neon Ballroom	1999
+	615	You Got Nothing I Want	Cold Chisel	376	642	Circus Animals	1982
+	616	Hard Sun	Eddie Vedder	678	627	Single Only	2009
+	617	Hey Joe	Jimi Hendrix	365	241	Are You Experienced?	1967
+	618	Live Forever	Oasis	390	725	Definitely Maybe	1994
+	619	Woman	Wolfmother	Re-Entry		wolfmother	2005
+	620	While My Guitar Gently Weaps	Jeff Healy Band	758	Re-Entry	Hell To Pay	1990
+	621	Anna Molly	Incubus	279	430	Light Grenades	2006
+	622	Eleganty Wasted	INXS	Re-Entry		Elegently Wasted	1997
+	623	Tomorrow	Silverchair	788	565	Frogstomp	1994
+	624	Getaway	Pearl Jam	Debut		lightning bolt	2013
+	625	I Don't Want To Miss A Thing	Aerosmith	749	713	Single Only	1998
+	626	Beautiful Machine	Shihad	914	Debut	Beautiful Machine	2008
+	627	Stripsearch	Faith No More	831	678	Album of the Year	1997
+	628	Bark At The Moon	Ozzy Osbourne	278	523	Bark at the Moon	1983
+	629	The Lost Art of Keeping a Secret	Queens Of The Stoneage	839	Re-Entry	Rated R	2000
+	630	Psycho Killer	Talking Heads	702	590	Talking Heads	1977
+	631	Room To Breathe	Blindspott	437	531	Blindspott	2001
+	632	Wonderwall	Oasis	842	637	(What's the Story) Morning Glory?	1995
+	633	Outshined	Soundgarden	713	488	Badmotorfinger	1991
+	634	Voices	Alice In Chains	Debut		The devil put dinosaurs here	2013
+	635	Born To Run	Bruce Springsteen	20	234	Born To Run	1975
+	636	Hey, Jonny Park	Foo Fighters	Re-Entry		The colour and the shape	1997
+	637	Rock You Like A Hurricance	Scorpions	Re-Entry		love at first sting	1984
+	638	The Answer	Villainy	953	731	Mode. Set. Clear.	2012
+	639	Hootenanny	Head Like A Hole	776	734	Double Your Strength, Improve Your Health and Lengthen Your Life	1996
+	640	Jack and Dianne	John Mellencamp	868	Re-Entry	American Fool	1982
+	641	Yellow	Coldplay	Re-Entry		parachutes	2000
+	642	Crazy	Aerosmith	624	875	Get A Grip	1993
+	643	Jesus Christ Pose	Soundgarden	746	404	Badmotorfinger	1991
+	644	You Really Got Me	Van Halen	935	753	Van Halen	1978
+	645	Breed	Nirvana	971	Debut	Nevermind	1991
+	646	Remedy	Seether	882	975	Karma And Effect	2005
+	647	Break On Through	Doors, The	139	197	The Doors	1967
+	648	The Red	Chevelle	Re-Entry		wonder what's next	2002
+	649	I Choose	Offspring, The	517	198	Ixnay on the Hombre	1997
+	650	Supermassive Blackhole	Muse	870	856	Blackholes and Revelations	2006
+	651	Bliss	Th' Dudes	60	115	Where are the Boys	1980
+	652	Island In The Sun	Weezer	Re-Entry		weezer	2001
+	653	Great Southern Land	Icehouse	909	617	Primitive Man	1982
+	654	Faded	Ben Harper	Re-Entry		The will to live	1997
+	655	Foxy Lady	Jimi Hendrix	888	740	Are You Experienced?	1967
+	656	Mr Brightside	Killers, The	260	242	Hot fuss	2004
+	657	Peace Pipe	Cry Of Love	Re-Entry		Brother	1993
+	658	American Girl	Tom Petty	586	682	Tom Petty and the Heartbreakers	1977
+	659	Devil's Haircut	Beck	Re-Entry		odelay	1996
+	660	Fly Away	Lenny Kravitz	927	827	5	1998
+	661	Bother	Stone Sour	666	728	Stone Sour	2002
+	662	Hero of the Day	Metallica	873	527	Load	1996
+	663	Excuse Me Mr	Ben Harper	346	694	Fight For Your Mind	1995
+	664	Counting The Beat	Swingers, The	981	664	Counting The Beat,	1981
+	665	Sweet Home Alabama	Lynard Skynard	920	783	second helping	1974
+	666	You And Me	Checks, The	397	995	Alice By The Moon	2009
+	667	Gone Away	Offspring, The	697	331	Ixnay on the Hombre	1996
+	668	Fat Bottomed Girls	Queen	236	285	Jazz	1978
+	669	Lightning Bolt	Pearl Jam	Debut		lightning bolt	2013
+	670	Money	Pink Floyd	110	160	The Dark Side of the Moon	1973
+	671	Bliss	Muse	Re-Entry		Origin of Symmerty	2001
+	672	Careless Whisper	Seether	775	335	Finding Beauty in Negative Spaces	2007
+	673	Vertigo	U2	543	727	How to Dismantle an Atomic Bomb	2004
+	674	Who Are You	Who, The	135	150	Who Are You?	1978
+	675	Beautiful Dangerous	Slash	627	171	Slash	2010
+	676	Live and Let Die	Guns 'N' Roses	896	874	Use Your Illusion I	1991
+	677	Pumpin' On Your Stereo	Supergrass	Re-Entry		supergrass	1999
+	678	My Sharona	Knack, The	Re-Entry		get the knack	1979
+	679	Corduroy	Pearl Jam	98	114	Vitalogy	1994
+	680	Angel of Harlem	U2	546	857	Rattle and Hum	1988
+	681	Freaks	Live	Re-Entry		Secret Samadhi	1997
+	682	Pride	U2	266	245	The Unforgettable Fire	1984
+	683	Renegades of Funk	Rage Against The Machine	852	784	Renegades	2000
+	684	Power and The Passion	Midnight Oil	187	259	10,9,8,7,6,5,4,3,2,1	1982
+	685	No Excuses	Alice in Chains	850	Re-Entry	Jar of Flies	1994
+	686	Bridge Burning	Foo Fighters	793	629	Wasting Light	2011
+	687	Halfway There	Soundgarden	Debut		King Animal	2012
+	688	Crackerman	Stone Temple Pilots	966	661	Core	1992
+	689	Like a Bird	Black Label Society	846	Re-Entry	Alcohol Fueled Brewtality	2001
+	690	Shimmer and Shine	Ben Harper	Re-Entry		White Lies for Dark Times	2009
+	691	Legs	ZZ Top	163	227	Eliminator	1983
+	692	Lump	Presidents of the USA, The	988	656	The Presidents	1995
+	693	Riders on the Storm	Doors, The	335	187	LA Woman	1971
+	694	Jesus or a Gun	Fuel	Re-Entry		sunburn	1999
+	695	Astronaut	Feelers, The	426	697	Playground Battle	2003
+	696	Hysteria	Muse	724	940	Absolution	2003
+	697	Tie Your Mother Down	Queen	634	327	A Day at the Races	1977
+	698	Only Happy When It Rains	Garbage	Re-Entry		Garbage	1995
+	699	Nothing As It Seems	Pearl Jam	985	757	Bianaural	2000
+	700	Walk Of Life	Dire Straits	Re-Entry		Brothers in arms	1985
+	701	Comfortably Shagged	Head Like A Hole	382	468	Are You Gonna Kiss It Or Shoot It?	1998
+	702	Lucky Man	Verve, The	970	963	Urban Hymns	1997
+	703	Rocks	Primal Scream	725	465	Give Out But Don't Give Up	1994
+	704	My Happiness	Powderfinger	252	387	Odyssey Number 5	2000
+	705	Good Times	INXS / Jimmy Barnes	881	778	Listen Like Thieves	1985
+	706	Carry On	Motor Ace	Re-Entry		Shoot This	2002
+	707	Sunday Bloody Sunday	U2	419	579	War	1983
+	708	Going To Hell	Pretty Reckless, The	Debut		Going to hell	2014
+	709	Tip Of My Tounge	Diesel	Re-Entry		Hepfidelity	1992
+	710	Happy Pills	Candlebox	Re-Entry		Happy pills	1998
+	711	Boom	POD	364	262	Satellite	2001
+	712	Spiders	System of a Down	843	658	System of a Down	1998
+	713	Country Song	Seether	766	586	Holding on to Strings Better Left to Fray	2011
+	714	Beautiful War	Kings Of Leon	Debut		Mechanical Bull	2013
+	715	Fake It	Seether	817	Re-Entry	Finding Beauty in Negative Spaces	2007
+	716	Whole Lotta Rosie	AC/DC	78	292	Let There Be Rock	1977
+	717	Long View	Green Day	Re-Entry		Dookie	1994
+	718	Shooting the Moon	Mona	Re-Entry		Listen to your love	2011
+	719	You Ain't Seen Nothing Yet	Bachman Turner Overdrive	809	972	Not Fragile	1974
+	720	West End Riot	Living End	Re-Entry		The living end	1999
+	721	Heavy	Collective Soul	Re-Entry		Dosage	1999
+	722	Duality	Slipknot	155	495	Vol. 3: (The Subliminal Verses)	2004
+	723	No Reason	Grinspoon	Re-Entry		no detention	2002
+	724	Icky Thump	White Stripes, The	217	421	Icky Thump	2007
+	725	Remedy	Black Crowes, The	Re-Entry		The Southern Harmony and Musical Companion	1992
+	726	Boulevard of Broken Dreams	Green Day	849	771	American Idiot	2004
+	727	Revolution	John Butler Trio	Re-Entry		April uprising	2010
+	728	Fire Woman	Cult, The	391	630	Sonic Temple	1989
+	729	Bad Medicine	Bon Jovi	629	603	New Jersey	1988
+	730	Bring Me To Life	Evanescence	306	231	Fallen	2003
+	731	The Final Countdown	Europe	878	967	The Final Countdown	1986
+	732	Put Your Money Where Your Mouth Is	Jet	Re-Entry		Shine on	2006
+	733	Weak	Seether	Debut		Isolate and Medicate	2014
+	734	April Sun In Cuba	Dragon	38	72	Running Free	1977
+	735	Friend	Feelers, The	Re-Entry		Supersystem	1998
+	736	Pure Massacre	Silverchair	933	739	Frog Stomp	1994
+	737	We Used to Be Friends	Dandy Warhols, The	Re-Entry		Welcome to the Monkey House	2003
+	738	Wind Up	Foo Fighters	Re-Entry		The colour and the shape	1997
+	739	In the Still Of The Night	Whitesnake	223	243	Whitesnake	1987
+	740	Sirens	Pearl Jam	Debut		lightning bolt	2013
+	741	Take Me Out	Franz Ferdinand	619	352	Franz Ferdinand	2004
+	742	Supersonic	Oasis	Re-Entry		Definitely Maybe	1994
+	743	Saints Of Los Angeles	Motley Crue	569	506	Saints Of Los Angeles	2008
+	744	No Resolution	Seether	599	548	Holding On To Strings Better Left To Fray	2011
+	745	Run To The Water	Live	Re-Entry		The distance to here	1999
+	746	Cold Hard Bitch	Jet	Re-Entry		Get born	2003
+	747	I'Ve Been Away For Too Long	Soundgarden	959	New	King Animal	2012
+	748	Jesus of Suburbia	Green Day	812	614	American Idiot	2004
+	749	Good Times	Finger Eleven	Re-Entry		Finger eleven	2003
+	750	Diamonds On The Inside	Ben Harper	Re-Entry		diamonds on the inside	2003
+	751	Midlife Crisis	Faith No More	875	853	Angel Dust	1992
+	752	George	Headless Chickens	954	559	Greedy	1997
+	753	Lost Control	Grinspoon	Re-Entry		New detention	2002
+	754	Turbo Lover	Judas Priest	169	225	Turbo	1986
+	755	Diamond Eyes (Boom Lay Boom)	Shinedown	639	832	Expendables Soundtrack	2010
+	756	Release Me	Pearl Jam	Re-Entry		Ten	1991
+	757	Diamond in the Rough	Airbourne	691	478	Runnin Wild	2007
+	758	Love The Way You Hate Me	Like A Storm	Debut		Chaos Theory: part 1	2012
+	759	The World I Know	Collective Soul	368	560	Collective Soul	1995
+	760	Home By The Sea	Genesis	648	530	Eponymous	1983
+	761	My Own Prison	Creed	348	449	My Own Prison	1997
+	762	The Boys Are Back In Town	Thin Lizzy	986	605	Jailbreak	1976
+	763	Easy	Faith No More	739	933	King For A Day Fool For A Lifetime	1995
+	764	This Means War	Avenged Sevenfold	Debut		Hail to the king	2013
+	765	Cherry Pie	Warrant	208	261	Cherry Pie	1990
+	766	Cuts Like A Knife	Bryan Adams	Re-Entry		Cuts like a knife	1983
+	767	Wet Rubber	Head Like A Hole	Re-Entry		HLAH IV: Are You Gonna Kiss It or Shoot It?	1998
+	768	It's My Life	Bon Jovi	684	650	Crush	2000
+	769	King of the Rodeo	Kings Of Leon	Debut		Aha Shake Heartbreak	2005
+	770	You Gotta Know	Supergroove	932	842	Traction	1994
+	771	Isreal's Son	Silverchair	Re-Entry		Frogstomp	1995
+	772	Iron man	Black Sabbath	206	639	Paranoid	1970
+	773	When I'm Gone	3 Doors Down	807	Re-Entry	Away From the Sun	2002
+	774	Youth Of The Nation	P.O.D.	841	789	Satellite	2001
+	775	Doin' Time	Sublime	Debut		Sublime	1997
+	776	Hitchin A Ride	Green Day	925	589	Nimrod	1997
+	777	Can I Play With Madness	Iron Maiden	58	113	Seventh Son of a Seventh Son	1988
+	778	Larger Than Life	Feelers, The	521	685	Playground Battle	2003
+	779	Flame Trees	Cold Chisel	745	706	Twentieth Century	1984
+	780	She Screamed She Loved Me	Bleeders	Debut		Bleeders	2007
+	781	For All The Cows	Foo Fighters	715	620	Foo Fighters	1995
+	782	Say You'll Haunt Me	Stone Sour	229	651	Audio Secrecy	2010
+	783	Baba O' Reily	Who, The	62	80	Who's Next?	1971
+	784	Hate me	Blue October	802	425	Foiled	2006
+	785	Bullet The Blue Sky	U2	152	217	The Joshua Tree	1987
+	786	Uprising	Muse	91	126	The Resistance	2009
+	787	On Call	Kings Of Leon	388	514	Because of the Times	2007
+	788	No Second Prize	Jimmy Barnes	Re-Entry		bodyswerve	1984
+	789	Broken	Seether/ Amy Lee	752	291	Single Only	2004
+	790	The Freshman	The Verve Pipe	894	845	Villains	1996
+	791	Wild Hearted Son	Cult, The	892	619	Ceremony	1981
+	792	Nookie	Limp Bizkit	912	Re-Entry	Significant Other	1999
+	793	Don't Dream It's Over	Crowded House	193	247	Crowded House	1987
+	794	Push It	Garbage	Debut		version 2.0	1998
+	795	Tuesday's Gone	Metallica	710	Debut	Garage INC	1998
+	796	All I Want Is You	U2	796	534	Rattle and Hum	1988
+	797	From Can to Can't	Sound City	25	New	Sound City	2013
+	798	Still Got The Blues	Gary Moore	840	980	Still Got The Blues	1990
+	799	Tainted Love	Living End	Re-Entry		the living end	2003
+	800	Love-Train	Wolfmother	Re-Entry		wolfmother	2006
+	801	How You Remind Me	Nickelback	682	369	Sliver Side Up	2001
+	802	Mother Mother	Tracy Bonham	957	961	The Burdens of Being Upright	1996
+	803	Lost in Forever	P.O.D.	761	New	Murdered Love	2012
+	804	One Thing	Finger Eleven	Re-Entry		Finger eleven	2003
+	805	Crazy Crazy Nights	Kiss	363	550	Crazy Nights	1987
+	806	Sunburn	Fuel	Re-Entry		sunburn	1998
+	807	Rockit	Def Leppard	993	704	Hysteria	1987
+	808	Glory Glory	Head Like A Hole	63	81	Blood Will Out	2011
+	809	Inside Out	Eve 6	990	594	Eve 6	1998
+	810	When a Blind Man Cries	Metallica	263	New	A Tribute To Deep Purple's Machinehead	2012
+	811	Miserable	Lit	Re-Entry		A place in the sun	1999
+	812	Black Jesus	Everlast	Re-Entry		Eat at Whitey's	2000
+	813	Papercut	Linkin Park	939	707	Hybrid Theory	2001
+	814	Through Glass	Stone Sour	182	116	Come What May	2006
+	815	Hurts So Good	John Mellencamp	Re-Entry		American Fool	1982
+	816	Figure It Out	Royal Blood	Debut		Royal Blood	2014
+	817	Are You Gonna Be My Girl	Jet	983	726	Get Born	2003
+	818	God is Dead	Black Sabbath	33	New	13	2013
+	819	Black Fingernails, Red Wine.	Eskimo Jo	Re-Entry		Black fingernails, Red Wine	2006
+	820	Victoria	Exponents	798	800	Prayers Be Answered	1983
+	821	Tonight Tonight	Smashing Pumpkins	980	692	Mellon Collie and the Infinate Sadness	1995
+	822	What It Takes	Aerosmith	729	657	Pump	1989
+	823	Perfect Situation	Weezer	Debut		make believe	2005
+	824	Sink The Pink	AC/DC	818	806	Fly On The Wall	1983
+	825	Ruby	Kaiser Cheifs	879	756	Yours Truly, Angry Mob	2007
+	826	Precious Declaration	Collective Soul	Re-Entry		Disciplined Breakdown	1997
+	827	Little Black Submarine	Black Keys, The	891	New	El Camino	2011
+	828	The Energy	Audiovent	Re-Entry		Dirty Sexy Knights in Paris	2002
+	829	Get Loose	The D4	Re-Entry		6twenty	2001
+	830	Behind The Sun	Red Hot Chili Peppers	731	869	The Uplift Mofo Party Plan	1987
+	831	Hard Act To Follow	Grinspoon	Re-Entry		Thrills Kills and Sunday pills	2004
+	832	D'Yer Mak'er	Led Zeppelin	Re-Entry		House of the holy	1973
+	833	I Stand Alone	Godsmack	815	562	The Scorpion King Soundtrack	2002
+	834	Girl, You'll be a Woman Soon	Urge Overkill	998	Debut	Pulp Fiction S/T	1994
+	835	Shadow of the Day	Linkin Park	736	600	Minutes to Midnight	2007
+	836	Candyman	Darlia	Debut		Candyman	2014
+	837	Lay Your Hands On Me	Bon Jovi	Re-Entry		New Jersey	1988
+	838	Charmless Man	Blur	Re-Entry		The great escape	1995
+	839	Cornbag	Head Like A Hole	699	878	Double Your Strength, Improve Your Health, and Lengthen Your Life	1996
+	840	California	Casanovas	Re-Entry		single	2006
+	841	You Know You're Right	Nirvana	Debut		Nirvana	2002
+	842	London Calling	Clash, The	269	360	London Calling	1972
+	843	Fans	Kings Of Leon	763	563	Because of the Times	2007
+	844	You Freak Me	Supergroove	960	Re-Entry	Traction	1994
+	845	The Chemicals Between Us	Bush	Re-Entry		The science of things	1999
+	846	Fever	The Black Keys	Debut		Turn Blue	2014
+	847	Brown Sugar	Rolling Stones	767	277	Sticky Fingers	1971
+	848	Song 2	Blur	59	453	Blur	1997
+	849	Machine Gun Blues	Social Distortion	805	Debut	Hard Times and Nursery Rhymes	2011
+	850	Calling On	Weta	Re-Entry		Geographica	2000
+	851	Like A Hurricane	Neil Young	801	968	American Stars N Bars	1977
+	852	Lazaretto	Jack White	Debut		Lazaretto	2014
+	853	I'm on fire	Bruce Springsteen	112	174	Born in the U.S.A.	1984
+	854	Flagpole Sitter	Harvey Danger	Re-Entry		Where Have All the Merrymakers Gone?	1997
+	855	Capital G	Nine Inch Nails	Re-Entry		Year zero	2007
+	856	Let It Rock	Bon Jovi	902	762	Slippery When Wet	1986
+	857	Seether	Seether	Debut		seether 2002-2013	2013
+	858	I Should Have Known	Foo Fighters	886	286	Back and Forth	2011
+	859	Touch Peel and Stand	Days of the New	963	887	Days of The New	1997
+	860	Don't Matter	Kings Of Leon	Debut		mechanical Bull	2013
+	861	Revelations	Audioslave	Debut		Revelations	2006
+	862	Whats My Scene	Hoodoo Gurus	944	894	Blow Your Cool	1987
+	863	Lady Picture Show	Stone Temple Pilots	906	632	Tiny Music, Songs from the Vatican Gift Shop	1996
+	864	Hats off to the Bull	Chevelle	Debut		Hats off to the bull	2011
+	865	Going Under	Evanescence	350	485	Fallen	2003
+	866	Where Did You Sleep Last Night	Nirvana	754	Re-Entry	MTV Unplugged	1994
+	867	What It's Like	Everlast	Re-Entry		Whitey Ford Sings the Blues	1998
+	868	The Otherside	Aerosmith	883	870	Pump	1989
+	869	Lifestyles of the Rich and Famous	Good Charlotte	917	662	The Young and the Hopeless	2002
+	870	Almost Honest	Megadeth	248	322	Cryptic Writings	1997
+	871	I Will Survive	Cake	Re-Entry		Fashion Nugget	1996
+	872	Ride On	AC/DC	918	790	Dirty Deeds Done Dirt Cheap	1976
+	873	Baby I Call Hell	Deap Valley	Debut		Sistrionix	2013
+	874	Two Princes	Spin Doctors	Re-Entry		Pocket Full of Kryptonite	1991
+	875	Don't Sit Down 'casu I moved Your Chair	Arctic Monkeys	Debut		Suck it and see	2011
+	876	I Hate Everything About You	Three Days Grace	848	Re-Entry	Life Starts Now	2009
+	877	Snuff	Slipknot	103	23	All Hope is Gone	2009
+	878	Sultans of Swing	Dire Straits	999	976	Sultans of Swing	1978
+	879	World On Fire	Slash	Debut		world on fire	2014
+	880	For What It's Worth	Placebo	835	416	Battle for the Sun	2009
+	881	Low	Foo Fighters	976	828	One By One	2002
+	882	Default	Wasting My Time	Re-Entry		the fallout	2001
+	883	Fear Of The Dark	Iron Maiden	657	153	Fear of the Dark	1992
+	884	Beverly Hills	Weezer	Re-Entry		Make believe	2005
+	885	And We'll Defy	I Am Giant	919	608	The Horrifying Truth	2011
+	886	Here is Gone	Goo Goo Dolls	Re-Entry		Gutterflower	2002
+	887	Ava Adore	Smashing Pumpkins	945	Re-Entry	Adore	1998
+	888	I Don't Want To Be Here Anymore	Rise Against	Debut		The Black Market	2014
+	889	You’re the Voice	John Farhnam	84	103	Whispering Jack	1986
+	890	Know Your Enemy	Green Day	604	403	21st century breakdown	2008
+	891	I Remember You	Skid Row	198	375	Skid Row	1989
+	892	Bleed You Dry	Grinspoon	Re-Entry		Thrills Kills and Sunday pills	2004
+	893	Easy Lover	Phil Collins	Debut		Chinese Wall	1984
+	894	Bleed it Out	Linkin Park	893	540	Minutes to Midnight	2007
+	895	Rattlesnake	Live	Re-Entry		Secret Samadhi	1997
+	896	I Won't Back Down	Tom Petty	995	679	Full Moon Fever	1996
+	897	Novocaine For The Soul	Eels	Debut		Beautiful Freak	1996
+	898	45	Gaslight Anthem	820	New	Handwritten	2012
+	899	No More Mr Nice Guy	Alice Cooper	967	818	Billion Dollar Babies	1973
+	900	Cannonball	The Breeders	Re-Entry		Last splash	1993
+	901	Fast Times In Tahoe	Elemeno P	874	670	Love and Disrespect	2002
+	902	Shout	Disturbed	Re-Entry		The Sickness	2000
+	903	Alright	Tadpole	936	795	The Buddhafinger	2000
+	904	The Sounds of Winter	Bush	950	595	The Sea Of Memories	2011
+	905	A Small Victory	Faith No More	Re-Entry		Angel Dust	1992
+	906	Why Don't You Get A Job	Offspring, The	375	542	Americana	1998
+	907	High and Dry	Radiohead	934	668	The Bends	1995
+	908	Richard III	Supergrass	Re-Entry		In It for the Money.	1997
+	909	You're a Lie	Slash	824	443	Apocolyptic Love	2012
+	910	Running Down A Dream	Tom Petty	973	989	Full Moon Fever	1989
+	911	Notion	Kings Of Leon	Re-Entry		Only by the night	2008
+	912	Lust For Life	Iggy Pop	832	671	Lust for Life	1977
+	913	Wheels	Foo Fighters	928	848	Single Only	2009
+	914	Change	Blind Melon	Debut		Blind Melon	1992
+	915	Get Out The Door	Velvet Revolver	722	903	Libertad	2007
+	916	Verona	Elemeno P	921	746	Love and Disrespect	2002
+	917	Jesus I Was Evil	Darcy Clay	Re-Entry		Songs for beethoven	1996
+	918	You Wanted More	Tonic	Re-Entry		sugar	1999
+	919	Born To Be Wild	Steppenwolf	962	593	Steppenwolf	1968
+	920	Reptile	Calling All Cars	Re-Entry		Dancing with a deadman	2011
+	921	Pepper	The Butthole Surfers	594	482	Electriclarry Land	1996
+	922	Falling Away From Me	Korn	Re-Entry		Issues	1999
+	923	From the Sea	Eskimo Jo	Re-Entry		A song is a city	2004
+	924	The Devil Takes Care of His Own	Band of Skulls	755	705	Sweet Sour	2012
+	925	Let It Go	I Am Giant	961	805	The Horrifying Truth	2011
+	926	It's not My Time	3 Doors Down	780	374	3 Doors Down	2008
+	927	Livin' The Crash	I Am Giant	855	254	The Horrifying Truth	2011
+	928	Let Me Hear You Scream	Ozzy Osbourne	114	165	Scream	2010
+	929	Photograph	Nickelback	819	345	All The Right Reasons	1995
+	930	Another Time	Villainy	764	New	Mode. Set. Clear	2013
+	931	Rain King	The Counting Crows	568	505	August and Everything After	1993
+	932	Privilege	Incubus	Re-Entry		Make Yourself	1999
+	933	The Adventures of Raindance Maggie	Red Hot Chili Peppers	770	304	I'm With You	2011
+	934	Out Of Time	Stone Temple Pilots	Debut		High Rise	2013
+	935	Even Better Than The Real Thing	U2	551	456	Achtung Baby	1991
+	936	Cheap Wine, and Cheaper Women	Airbourne	828	693	Runnin' Wild	2007
+	937	Minority	Green Day	Re-Entry		Warning	2000
+	938	Forever Now	Cold Chisel	834	984	Circus Animals	1982
+	939	Cold Summer	Fuel	Debut		Puppet strings	2014
+	940	Hey You	Pink Floyd	214	146	The Wall	1979
+	941	Wait For Me	Kings Of Leon	Debut		Mechanical Bull	2013
+	942	Devil Inside	INXS	899	843	Kick	1987
+	943	Quicksand	Black River Drive	Debut		Quicksand	2014
+	944	Help is on the Way	Rise Against	872	302	Endgame	2011
+	945	Brother	Pearl Jam	649	817	Lost Dogs	2003
+	946	Hammerhead	The Offspring	672	516	Rise and Fall, Rage and Grace	2008
+	947	Father Of Mine	Everclear	Re-Entry		So Much for the Afterglow	1997
+	948	Better Get A Lawyer	The Cruel Sea	637	838	Three Legged Dog	1995
+	949	Here Without You	3 Doors Down	851	993	Away From The Sun	2002
+	950	Drowning	Crazytown	Re-Entry		Darkhorse	2000
+	951	Amongst The Waves	Pearl Jam	693	653	Backspacer	2009
+	952	Love Bites	Def Leppard	816	794	Hysteria	1987
+	953	Once	Pearl Jam	1000	Debut	Ten	1991
+	954	Guilty All The Same	Linkin Park	Debut		The Hunting Party	2014
+	955	Thank You	Chris Cornell	810	557	Songbook	2011
+	956	I Get Off	Halestorm	520	702	Halestorm	2009
+	957	Gutter Black	Hello Sailor	144	214	Last Chance to Dance	1982
+	958	Snapshot	Weta	Re-Entry		Geographica	2000
+	959	Make It Witchu	Queens Of The Stone Age	Re-Entry		Over the Years and Through the Woods	2005
+	960	Out Of Exile	Audioslave	Debut		Out of Exile	2006
+	961	Dangerous	Big Data	Debut		1	2013
+	962	Back in the Game	Airbourne	884	New	Black Dog Barking	2013
+	963	Low	Cracker	Re-Entry		Kerosene Hat	1993
+	964	Engage	Shihad	680	400	Ignite	2010
+	965	God Gave Rock n Roll To You	Kiss	389	652	Revenge	1992
+	966	All On Our Own	Midnight Youth	516	643	The Brave Don't Run	2009
+	967	Last Nite	Strokes, The	887	777	Is This It	2001
+	968	What I've Done	Linkin Park	889	412	Minutes to Midnight	2007
+	969	Bullet	Black River Drive	903	854	Black River Drive	2010
+	970	Original Prankster	The Offspring	996	645	Conspiracy Of One	2000
+	971	New Divide	Linkin Park	857	674	Single Only	2009
+	972	Good	Better Than Ezra	900	640	Deluxe	1995
+	973	Cult of Personality	Living Colour	372	436	Vivid	1988
+	974	Feel Good Drag	Anberlin	Re-Entry		Never Take Friendship Personal	2005
+	975	Mama Said	Metallica	908	Re-Entry	Re-Load	1997
+	976	The Boys of Summer	The Ataris	Debut		So Long, Astoria	2003
+	977	Make Me Wanna Die	Pretty Reckless	994	793	The Pretty Reckless E.P	2010
+	978	Closer	Kings Of Leon	822	Debut	Only By The Night	2009
+	979	Fire Water Burn	Bloodhound Gang	416	518	One Fierce Beer Coaster	1996
+	980	Sharp Dressed Man	ZZ Top	781	480	Eliminator	1983
+	981	Come a Little Closer	Cage the Elephant	Debut		Melophobia	2013
+	982	Are You Old Enough	Dragon	238	334	O Zambezi	1978
+	983	Adam's Song	Blink 182	863	722	Enema of the State	1999
+	984	Closer	Nine Inch Nails	Debut		Downward Spiral	1994
+	985	Song For The Lonely	Living End	578	569	The End is Just The Beginning Repeating	2011
+	986	Peaches	Presidents of the USA	Re-Entry		Presidents of the USA	1995
+	987	School's Out	Alice Cooper	771	937	School's Out	1972
+	988	Closer	Silence The City	Debut		single	2013
+	989	Tonight	Seether	905	822	Holding On To Strings Better Left To Fray	2011
+	990	Hungry Heart	Bruce Springsteen	417	947	The River	1980
+	991	Painkiller	Three Days Grace	Debut		single	2014
+	992	Tribute	Tenacious D	789	717	Tenacious D	2001
+	993	Mountain Song	Janes Addiction	864	681	Nothings Shocking	1988
+	994	Jokerman	Bob Dylan	202	440	Infedels	1983
+	995	House of the Rising Sun	Five Finger Death Punch	Debut		The Wrong Side of Heaven…	2014
+	996	Burning Down The House	Talking Heads	605	501	Speaking in Tounges	1983
+	997	Zombie	Cranberries	930	787	Ode to my Family	1994
+	998	Venus	The Feelers	972	811	Supersystem	1998
+	999	Rock The Casbah	The Clash	579	539	Combat Rock	1982
+	1000	Hardest Button to Button	The White Stripes	Re-Entry		Elephant	2003
